@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.red_line{
+    background-color: #9b1c2c;
+    width:850px;
+    height: 30px;
+}
+
+.white_line{
+    background-color: white;
+    width: 850px;
+    height: 30px;
+}
+
+.stars {
+    position: absolute;
+    top:2px;
+    left:1px;
+    width: 440px;
+    height: 258px;
+    background-color: #041e42;
+    color: white;
+}
